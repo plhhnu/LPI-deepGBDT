@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76bf69f6-08e4-48cc-8851-5c17472bb5e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d8020508-fc75-49f7-8cfa-0aa8a2cae4be" />
+  <component name="ProjectId" id="1m5lGTR7JgZgYJVxbs9is1vZ5uP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Network" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySupportQtDebugging" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\LPI-deepGBDT" />
+      <recent name="F:\LPI-deepGBDT\data\dataset_3" />
+      <recent name="F:\LPI-deepGBDT\data\dataset_2" />
+      <recent name="F:\LPI-deepGBDT\data\dataset_1" />
+      <recent name="F:\LPI-deepGBDT\data\dataset_5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\LPI-deepGBDT" />
+      <recent name="E:\mGBDT-master" />
+      <recent name="E:\mGBDT-master\datasets" />
+      <recent name="E:\mGBDT-master\datasets\test_run" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.example_CV3">
+    <configuration name="RNA_PCA_Normalization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LPI-deepGBDT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data4/RNA_PCA_Normalization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_3479_CV3_run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LPI-deepGBDT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data1/data_3479_CV3_run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_4_CV3_run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LPI-deepGBDT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data4/data_4_CV3_run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_CV3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LPI-deepGBDT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/example_CV3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multi_xgb_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LPI-deepGBDT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/mgbdt/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/mgbdt/model/multi_xgb_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.example_CV3" />
+        <item itemvalue="Python.data_4_CV3_run" />
+        <item itemvalue="Python.multi_xgb_model" />
+        <item itemvalue="Python.data_3479_CV3_run" />
+        <item itemvalue="Python.RNA_PCA_Normalization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\wangzhao\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76bf69f6-08e4-48cc-8851-5c17472bb5e8" name="Default Changelist" comment="" />
+      <created>1608791236899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608791236899</updated>
+      <workItem from="1608791238265" duration="21132000" />
+      <workItem from="1608818254922" duration="61000" />
+      <workItem from="1608861159346" duration="5919000" />
+      <workItem from="1608875140704" duration="10588000" />
+      <workItem from="1608886336922" duration="1389000" />
+      <workItem from="1608891629304" duration="13443000" />
+      <workItem from="1608944208292" duration="27252000" />
+      <workItem from="1608982302029" duration="1766000" />
+      <workItem from="1609033554039" duration="5184000" />
+      <workItem from="1609048168775" duration="6585000" />
+      <workItem from="1609055498192" duration="422000" />
+      <workItem from="1609055939468" duration="60000" />
+      <workItem from="1609056914934" duration="767000" />
+      <workItem from="1609057933466" duration="20000" />
+      <workItem from="1609057954085" duration="3650000" />
+      <workItem from="1609063595667" duration="12000" />
+      <workItem from="1609066020291" duration="2044000" />
+      <workItem from="1609068080774" duration="51000" />
+      <workItem from="1609071197730" duration="6787000" />
+      <workItem from="1609120572186" duration="25973000" />
+      <workItem from="1609161270717" duration="90000" />
+      <workItem from="1609162896497" duration="199000" />
+      <workItem from="1609239451560" duration="9672000" />
+      <workItem from="1609298963947" duration="37384000" />
+      <workItem from="1609584367912" duration="1307000" />
+      <workItem from="1609641433660" duration="21025000" />
+      <workItem from="1609837799454" duration="775000" />
+      <workItem from="1609849201554" duration="2511000" />
+      <workItem from="1609851723683" duration="265000" />
+      <workItem from="1609913233891" duration="21767000" />
+      <workItem from="1609939947238" duration="49000" />
+      <workItem from="1609941675379" duration="16000" />
+      <workItem from="1609979439512" duration="29817000" />
+      <workItem from="1610070643881" duration="43249000" />
+      <workItem from="1610172396553" duration="14902000" />
+      <workItem from="1610189755578" duration="172000" />
+      <workItem from="1610190204675" duration="351000" />
+      <workItem from="1610196328755" duration="18952000" />
+      <workItem from="1610259580526" duration="6766000" />
+      <workItem from="1610276216644" duration="10837000" />
+      <workItem from="1610328667029" duration="6794000" />
+      <workItem from="1610354270796" duration="729000" />
+      <workItem from="1610355956584" duration="38000" />
+      <workItem from="1610363881024" duration="26000" />
+      <workItem from="1610365679663" duration="1057000" />
+      <workItem from="1610367454900" duration="600000" />
+      <workItem from="1610369581779" duration="375000" />
+      <workItem from="1610431696703" duration="11000" />
+      <workItem from="1610431923444" duration="9678000" />
+      <workItem from="1610442164642" duration="8000" />
+      <workItem from="1610455272800" duration="282000" />
+      <workItem from="1611455856047" duration="1546000" />
+      <workItem from="1611492715110" duration="3890000" />
+      <workItem from="1611556728454" duration="15174000" />
+      <workItem from="1611629561213" duration="2190000" />
+      <workItem from="1611903870417" duration="6728000" />
+      <workItem from="1611930667325" duration="8271000" />
+      <workItem from="1612021203794" duration="5906000" />
+      <workItem from="1612051047928" duration="11678000" />
+      <workItem from="1612093549400" duration="7426000" />
+      <workItem from="1612148219733" duration="678000" />
+      <workItem from="1612152484159" duration="4506000" />
+      <workItem from="1612238495017" duration="14347000" />
+      <workItem from="1612316699466" duration="294000" />
+      <workItem from="1612317031553" duration="68000" />
+      <workItem from="1612320827516" duration="3442000" />
+      <workItem from="1612401480969" duration="104000" />
+      <workItem from="1612430920734" duration="4995000" />
+      <workItem from="1612440332814" duration="302000" />
+      <workItem from="1612441353723" duration="1574000" />
+      <workItem from="1612443160145" duration="981000" />
+      <workItem from="1612445124379" duration="1463000" />
+      <workItem from="1612486035359" duration="1282000" />
+      <workItem from="1612790228239" duration="2722000" />
+      <workItem from="1612840516606" duration="752000" />
+      <workItem from="1612841548435" duration="313000" />
+      <workItem from="1612866884115" duration="1647000" />
+      <workItem from="1612874480393" duration="926000" />
+      <workItem from="1614669629591" duration="2343000" />
+      <workItem from="1614752587091" duration="14309000" />
+      <workItem from="1614863401641" duration="53000" />
+      <workItem from="1615083421544" duration="26559000" />
+      <workItem from="1615270984685" duration="3382000" />
+      <workItem from="1615280285135" duration="9000" />
+      <workItem from="1615343831503" duration="7487000" />
+      <workItem from="1615367221435" duration="3272000" />
+      <workItem from="1615442626313" duration="1185000" />
+      <workItem from="1615444204425" duration="2007000" />
+      <workItem from="1615446274650" duration="4773000" />
+      <workItem from="1615451113819" duration="6348000" />
+      <workItem from="1615518960930" duration="77000" />
+      <workItem from="1615527206190" duration="576000" />
+      <workItem from="1615528010179" duration="484000" />
+      <workItem from="1615548723637" duration="36000" />
+      <workItem from="1615601025055" duration="1166000" />
+      <workItem from="1615604164092" duration="1825000" />
+      <workItem from="1615609556262" duration="652000" />
+      <workItem from="1615770629197" duration="6924000" />
+      <workItem from="1615804678384" duration="1449000" />
+      <workItem from="1615810277415" duration="1600000" />
+      <workItem from="1615812713167" duration="694000" />
+      <workItem from="1615813550052" duration="4257000" />
+      <workItem from="1615857548450" duration="12346000" />
+      <workItem from="1615900009602" duration="1800000" />
+      <workItem from="1615960219152" duration="3980000" />
+      <workItem from="1616126979914" duration="3164000" />
+      <workItem from="1616142720032" duration="6484000" />
+      <workItem from="1616397944917" duration="3153000" />
+      <workItem from="1616414303399" duration="8000" />
+      <workItem from="1616415262871" duration="343000" />
+      <workItem from="1616470556075" duration="217000" />
+      <workItem from="1616479990226" duration="12264000" />
+      <workItem from="1616509067612" duration="647000" />
+      <workItem from="1616575391184" duration="65000" />
+      <workItem from="1616661517143" duration="6459000" />
+      <workItem from="1616669610727" duration="747000" />
+      <workItem from="1616670657216" duration="251000" />
+      <workItem from="1616671118109" duration="574000" />
+      <workItem from="1616671907484" duration="1233000" />
+      <workItem from="1616673724102" duration="1388000" />
+      <workItem from="1616675508965" duration="11846000" />
+      <workItem from="1616721363340" duration="22269000" />
+      <workItem from="1616761041697" duration="3290000" />
+      <workItem from="1616811793641" duration="2983000" />
+      <workItem from="1616814793853" duration="2639000" />
+      <workItem from="1616828419662" duration="21000" />
+      <workItem from="1616832627084" duration="884000" />
+      <workItem from="1616833837671" duration="1907000" />
+      <workItem from="1616914090726" duration="9913000" />
+      <workItem from="1616998189264" duration="901000" />
+      <workItem from="1617074271415" duration="1845000" />
+      <workItem from="1617079646780" duration="4494000" />
+      <workItem from="1617084532174" duration="1709000" />
+      <workItem from="1617155182923" duration="1596000" />
+      <workItem from="1617179589484" duration="154000" />
+      <workItem from="1617181143209" duration="622000" />
+      <workItem from="1617196386577" duration="19813000" />
+      <workItem from="1617757352649" duration="2247000" />
+      <workItem from="1617759632161" duration="11000" />
+      <workItem from="1617759644045" duration="39000" />
+      <workItem from="1617759723522" duration="958000" />
+      <workItem from="1617782800462" duration="4918000" />
+      <workItem from="1617842718528" duration="516000" />
+      <workItem from="1618139652061" duration="216000" />
+      <workItem from="1618140480161" duration="1344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/LPI-deepGBDT-test" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="74" key="#Deployment" timestamp="1611492938457">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="74" key="#Deployment/0.0.1549.831@0.0.1549.831" timestamp="1611492938457" />
+    <state x="444" y="105" key="#Options" timestamp="1611492925944">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="444" y="105" key="#Options/0.0.1549.831@0.0.1549.831" timestamp="1611492925944" />
+    <state x="230" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610262046049">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="230" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1610262046049" />
+    <state x="2425" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617759218746">
+      <screen x="1920" y="0" width="1549" height="871" />
+    </state>
+    <state x="2425" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1549.831/1920.0.1549.871@1920.0.1549.871" timestamp="1617759218746" />
+    <state x="488" y="7" key="#top_N" timestamp="1615770790219">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="488" y="7" key="#top_N/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1615770790219" />
+    <state x="533" y="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610261998852">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="533" y="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1610261998852" />
+    <state x="2475" y="179" key="FileChooserDialogImpl" timestamp="1617843233979">
+      <screen x="1920" y="0" width="1549" height="871" />
+    </state>
+    <state x="-1365" y="171" key="FileChooserDialogImpl/-1920.0.1549.831/0.0.1549.831@-1920.0.1549.831" timestamp="1615280292032" />
+    <state x="555" y="171" key="FileChooserDialogImpl/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1616209182681" />
+    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831/1920.0.1549.871@0.0.1549.831" timestamp="1617075773460" />
+    <state x="2475" y="179" key="FileChooserDialogImpl/0.0.1549.831/1920.0.1549.871@1920.0.1549.871" timestamp="1617843233979" />
+    <state x="555" y="171" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1617181160232" />
+    <state x="555" y="179" key="FileChooserDialogImpl/0.0.1549.871@0.0.1549.871" timestamp="1616575452795" />
+    <state width="1506" height="287" key="GridCell.Tab.0.bottom" timestamp="1617764319589">
+      <screen x="1920" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="236" key="GridCell.Tab.0.bottom/-1920.0.1549.831/0.0.1549.831@-1920.0.1549.831" timestamp="1615891528885" />
+    <state width="1506" height="295" key="GridCell.Tab.0.bottom/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1616506618324" />
+    <state width="1506" height="324" key="GridCell.Tab.0.bottom/0.0.1549.831/1920.0.1549.871@0.0.1549.831" timestamp="1617411873694" />
+    <state width="1506" height="287" key="GridCell.Tab.0.bottom/0.0.1549.831/1920.0.1549.871@1920.0.1549.871" timestamp="1617764319589" />
+    <state width="1491" height="393" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1617279734352" />
+    <state width="1506" height="313" key="GridCell.Tab.0.bottom/0.0.1549.871@0.0.1549.871" timestamp="1616575455566" />
+    <state width="1506" height="287" key="GridCell.Tab.0.center" timestamp="1617764319589">
+      <screen x="1920" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="236" key="GridCell.Tab.0.center/-1920.0.1549.831/0.0.1549.831@-1920.0.1549.831" timestamp="1615891528885" />
+    <state width="1506" height="295" key="GridCell.Tab.0.center/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1616506618324" />
+    <state width="1506" height="324" key="GridCell.Tab.0.center/0.0.1549.831/1920.0.1549.871@0.0.1549.831" timestamp="1617411873694" />
+    <state width="1506" height="287" key="GridCell.Tab.0.center/0.0.1549.831/1920.0.1549.871@1920.0.1549.871" timestamp="1617764319589" />
+    <state width="1491" height="393" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1617279734352" />
+    <state width="1506" height="313" key="GridCell.Tab.0.center/0.0.1549.871@0.0.1549.871" timestamp="1616575455566" />
+    <state width="1506" height="287" key="GridCell.Tab.0.left" timestamp="1617764319589">
+      <screen x="1920" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="236" key="GridCell.Tab.0.left/-1920.0.1549.831/0.0.1549.831@-1920.0.1549.831" timestamp="1615891528885" />
+    <state width="1506" height="295" key="GridCell.Tab.0.left/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1616506618324" />
+    <state width="1506" height="324" key="GridCell.Tab.0.left/0.0.1549.831/1920.0.1549.871@0.0.1549.831" timestamp="1617411873694" />
+    <state width="1506" height="287" key="GridCell.Tab.0.left/0.0.1549.831/1920.0.1549.871@1920.0.1549.871" timestamp="1617764319589" />
+    <state width="1491" height="393" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1617279734352" />
+    <state width="1506" height="313" key="GridCell.Tab.0.left/0.0.1549.871@0.0.1549.871" timestamp="1616575455565" />
+    <state width="1506" height="287" key="GridCell.Tab.0.right" timestamp="1617764319589">
+      <screen x="1920" y="0" width="1549" height="871" />
+    </state>
+    <state width="1506" height="236" key="GridCell.Tab.0.right/-1920.0.1549.831/0.0.1549.831@-1920.0.1549.831" timestamp="1615891528885" />
+    <state width="1506" height="295" key="GridCell.Tab.0.right/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1616506618324" />
+    <state width="1506" height="324" key="GridCell.Tab.0.right/0.0.1549.831/1920.0.1549.871@0.0.1549.831" timestamp="1617411873694" />
+    <state width="1506" height="287" key="GridCell.Tab.0.right/0.0.1549.831/1920.0.1549.871@1920.0.1549.871" timestamp="1617764319589" />
+    <state width="1491" height="393" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1617279734352" />
+    <state width="1506" height="313" key="GridCell.Tab.0.right/0.0.1549.871@0.0.1549.871" timestamp="1616575455566" />
+    <state width="1506" height="351" key="GridCell.Tab.1.bottom" timestamp="1615459498390">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="351" key="GridCell.Tab.1.bottom/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1615459498390" />
+    <state width="1506" height="351" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1611588719829" />
+    <state width="1506" height="351" key="GridCell.Tab.1.center" timestamp="1615459498389">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="351" key="GridCell.Tab.1.center/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1615459498389" />
+    <state width="1506" height="351" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1611588719829" />
+    <state width="1506" height="351" key="GridCell.Tab.1.left" timestamp="1615459498388">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="351" key="GridCell.Tab.1.left/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1615459498388" />
+    <state width="1506" height="351" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1611588719829" />
+    <state width="1506" height="351" key="GridCell.Tab.1.right" timestamp="1615459498390">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="351" key="GridCell.Tab.1.right/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1615459498390" />
+    <state width="1506" height="351" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1611588719829" />
+    <state x="2182" y="62" key="SettingsEditor" timestamp="1617784675427">
+      <screen x="1920" y="0" width="1549" height="871" />
+    </state>
+    <state x="-1636" y="60" key="SettingsEditor/-1920.0.1549.831/0.0.1549.831@-1920.0.1549.831" timestamp="1610369808678" />
+    <state x="284" y="60" key="SettingsEditor/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1610261408878" />
+    <state x="2182" y="62" key="SettingsEditor/0.0.1549.831/1920.0.1549.871@1920.0.1549.871" timestamp="1617784675427" />
+    <state x="284" y="60" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1611456095605" />
+    <state x="2525" y="305" key="VCS.EditChangelistDialog" timestamp="1617783069999">
+      <screen x="1920" y="0" width="1549" height="871" />
+    </state>
+    <state x="2525" y="305" key="VCS.EditChangelistDialog/0.0.1549.831/1920.0.1549.871@1920.0.1549.871" timestamp="1617783069999" />
+    <state width="1213" height="422" key="XDebugger.FullValuePopup" timestamp="1610277690159">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1213" height="422" key="XDebugger.FullValuePopup/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1610277690159" />
+    <state x="281" y="9" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610097270110">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="281" y="9" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1610097270110" />
+    <state x="223" y="52" width="1233" height="830" key="dock-window-1" timestamp="1616823357925">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="-1877" y="13" width="1520" height="610" key="dock-window-1/-1920.0.1549.831/0.0.1549.831@-1920.0.1549.831" timestamp="1615519037756" />
+    <state x="-1877" y="13" width="1520" height="610" maximized="true" key="dock-window-1/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1615548759613" />
+    <state x="223" y="52" width="1233" height="830" key="dock-window-1/0.0.1549.831/1920.0.1549.871@1920.0.1549.871" timestamp="1616823357925" />
+    <state x="-35" y="116" width="1520" height="789" key="dock-window-1/0.0.1549.831@0.0.1549.831" timestamp="1611456468085" />
+    <state x="40" y="49" width="1520" height="634" key="dock-window-2" timestamp="1615451431084">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="40" y="49" width="1520" height="634" key="dock-window-2/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1615451431084" />
+    <state x="-1612" y="0" width="1188" height="682" maximized="true" key="dock-window-3" timestamp="1610189542732">
+      <screen x="-1920" y="0" width="1549" height="831" />
+    </state>
+    <state x="-1612" y="0" width="1188" height="682" maximized="true" key="dock-window-3/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1610189542732" />
+    <state x="-1917" y="2" width="941" height="799" key="dock-window-4" timestamp="1610026699860">
+      <screen x="-1920" y="0" width="1549" height="831" />
+    </state>
+    <state x="-1917" y="2" width="941" height="799" key="dock-window-4/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1610026699860" />
+    <state x="473" y="149" width="962" height="532" key="find.popup" timestamp="1616503091332">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="473" y="149" width="962" height="532" key="find.popup/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1616503091332" />
+    <state x="473" y="149" width="962" height="532" key="find.popup/0.0.1549.831@0.0.1549.831" timestamp="1612274842471" />
+    <state x="623" y="150" width="449" height="681" key="ftp.server.browser" timestamp="1615813647109">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="623" y="150" width="449" height="681" key="ftp.server.browser/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1615813647109" />
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1616481577688">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1616481577688" />
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1612279577376" />
+    <state x="497" y="327" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1610431990816">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="497" y="327" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/-1920.0.1549.831/0.0.1549.831@0.0.1549.831" timestamp="1610431990816" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mGBDT_master$cross_validation_perfect__1_.coverage" NAME="cross_validation_perfect (1) Coverage Results" MODIFIED="1616814516057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$circle.coverage" NAME="circle Coverage Results" MODIFIED="1608876874471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_3265_CV2_run.coverage" NAME="data_3265_CV2_run Coverage Results" MODIFIED="1616666958278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data2" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$Finding_new_LPI__3_.coverage" NAME="Finding new LPI (3) Coverage Results" MODIFIED="1612018759961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_4158_CV1_run.coverage" NAME="data_4158_CV1_run Coverage Results" MODIFIED="1615863025423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data3" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_3479_CV1_run.coverage" NAME="data_3479_CV1_run Coverage Results" MODIFIED="1616668227889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data1" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_5_CV3_run.coverage" NAME="data_5_CV3_run Coverage Results" MODIFIED="1616935873905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1610026608388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1608876957101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$matrix__1_.coverage" NAME="matrix (1) Coverage Results" MODIFIED="1609923785381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$generate_matrix.coverage" NAME="generate_matrix Coverage Results" MODIFIED="1610019970376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$Case_study__1_.coverage" NAME="Case study (1) Coverage Results" MODIFIED="1611644749705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4158" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$top_N__2_.coverage" NAME="top N (2) Coverage Results" MODIFIED="1612437638980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4158" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_4_CV1_run.coverage" NAME="data_4_CV1_run Coverage Results" MODIFIED="1616812583140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$model_run_4158_end__1_.coverage" NAME="model_run_4158_end (1) Coverage Results" MODIFIED="1609837900484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4158" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$DT.coverage" NAME="DT Coverage Results" MODIFIED="1612841792022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4158" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$pytest_in_test_checking_py.coverage" NAME="pytest in test_checking_CV.py Coverage Results" MODIFIED="1615451517395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data1" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_3425_CV3_run.coverage" NAME="data_3425_CV3_run Coverage Results" MODIFIED="1610261416359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_3265" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$cross_validation_perfect__2_.coverage" NAME="cross_validation_perfect (2) Coverage Results" MODIFIED="1616762209364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data3" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$cross_validation__1_.coverage" NAME="cross_validation (1) Coverage Results" MODIFIED="1610019811024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$maxdata.coverage" NAME="maxdata Coverage Results" MODIFIED="1609915844277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$mode_run_test__1_.coverage" NAME="mode_run_test (1) Coverage Results" MODIFIED="1609136363296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$temp_python_test__1_.coverage" NAME="temp_python_test (1) Coverage Results" MODIFIED="1616998354316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$5_Fold.coverage" NAME="5-Fold Coverage Results" MODIFIED="1608884378333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$model_run_3479.coverage" NAME="model_run_3479 Coverage Results" MODIFIED="1609660186327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_3479" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$9966.coverage" NAME="9966 Coverage Results" MODIFIED="1610088179581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$mode_run__1_.coverage" NAME="mode_run (1) Coverage Results" MODIFIED="1608881572196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$top_N__3_.coverage" NAME="top N (3) Coverage Results" MODIFIED="1612438508044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$PCA_Normalization__1_.coverage" NAME="PCA_Normalization (1) Coverage Results" MODIFIED="1608905860020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_3479_CV2_run.coverage" NAME="data_3479_CV2_run Coverage Results" MODIFIED="1617079666215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$Finding_new_LPI.coverage" NAME="Finding new LPI Coverage Results" MODIFIED="1612101204987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$Finding_new_LPI__2_.coverage" NAME="Finding new LPI (2) Coverage Results" MODIFIED="1612013608935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4158" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$RNA_feature_PCA_Normalization.coverage" NAME="RNA_feature_PCA_Normalization Coverage Results" MODIFIED="1616918861721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data2" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$RNA_PCA_Normalization.coverage" NAME="RNA_PCA_Normalization Coverage Results" MODIFIED="1617155676377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$model_run_3479__1_.coverage" NAME="model_run_3479 (1) Coverage Results" MODIFIED="1609314479579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_3479" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$mode_run_test__2_.coverage" NAME="mode_run_test (2) Coverage Results" MODIFIED="1609138322834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4158" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_5_CV1_run__1_.coverage" NAME="data_5_CV1_run (1) Coverage Results" MODIFIED="1610174412818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_5" />
+    <SUITE FILE_PATH="coverage/LPI_deepGBDT$example_CV3.coverage" NAME="example_CV3 Coverage Results" MODIFIED="1617759926060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/example" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$RNA_PCA_Normalization__1_.coverage" NAME="RNA_PCA_Normalization (1) Coverage Results" MODIFIED="1609136253981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_3479" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$cross_validation_perfect__4_.coverage" NAME="cross_validation_perfect (4) Coverage Results" MODIFIED="1616721090072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$Protein_PCA_Normalization.coverage" NAME="Protein_PCA_Normalization Coverage Results" MODIFIED="1617155521711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$Mapping__1_.coverage" NAME="Mapping (1) Coverage Results" MODIFIED="1615811020160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$Mapping.coverage" NAME="Mapping Coverage Results" MODIFIED="1615771215762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data1" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_4_CV4_run__1_.coverage" NAME="data_4_CV4_run (1) Coverage Results" MODIFIED="1610097237598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$model_run_3479_end.coverage" NAME="model_run_3479_end Coverage Results" MODIFIED="1609336428981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4158" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_load.coverage" NAME="data_load Coverage Results" MODIFIED="1609135277218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/mgbdt/datasets" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_5_CV3_run_test.coverage" NAME="data_5_CV3_run_test Coverage Results" MODIFIED="1614752885604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_4_CV3_run.coverage" NAME="data_4_CV3_run Coverage Results" MODIFIED="1617282379007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$Case_study.coverage" NAME="Case study Coverage Results" MODIFIED="1611904151390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_3479" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$Protein_PCA_Normalization__1_.coverage" NAME="Protein_PCA_Normalization (1) Coverage Results" MODIFIED="1609137459783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_3425" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$9652.coverage" NAME="9652 Coverage Results" MODIFIED="1616210019230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$uci_yeast.coverage" NAME="uci_yeast Coverage Results" MODIFIED="1608814076676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/mgbdt/datasets" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_5_CV1_run.coverage" NAME="data_5_CV1_run Coverage Results" MODIFIED="1615863038088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$model_run_22133.coverage" NAME="model_run_22133 Coverage Results" MODIFIED="1610026432651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_4158_CV3_run.coverage" NAME="data_4158_CV3_run Coverage Results" MODIFIED="1614843495856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4158" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$dataturn.coverage" NAME="dataturn Coverage Results" MODIFIED="1609922814254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$scurve.coverage" NAME="scurve Coverage Results" MODIFIED="1608876925224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$996.coverage" NAME="996 Coverage Results" MODIFIED="1616915268192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_3479_CV3_run.coverage" NAME="data_3479_CV3_run Coverage Results" MODIFIED="1617196982384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data1" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$9963_.coverage" NAME="9963. Coverage Results" MODIFIED="1610440990464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$96321.coverage" NAME="96321 Coverage Results" MODIFIED="1608883518894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$9633.coverage" NAME="9633 Coverage Results" MODIFIED="1608862988746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$online_xgb.coverage" NAME="online_xgb Coverage Results" MODIFIED="1616503700114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/mgbdt/model" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$PCA_Normalization__2_.coverage" NAME="PCA_Normalization (2) Coverage Results" MODIFIED="1608906137384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4158" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$cross_validation.coverage" NAME="cross_validation Coverage Results" MODIFIED="1610019260133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_processing.coverage" NAME="data processing Coverage Results" MODIFIED="1608895654634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$find_same_name.coverage" NAME="find_same_name Coverage Results" MODIFIED="1615960515991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$top_N.coverage" NAME="top_N Coverage Results" MODIFIED="1616126993519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$test.coverage" NAME="test Coverage Results" MODIFIED="1616575423210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_3265_CV2_run__1_.coverage" NAME="data_3265_CV2_run (1) Coverage Results" MODIFIED="1610178118645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_3265" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_3265_CV1_run.coverage" NAME="data_3265_CV1_run Coverage Results" MODIFIED="1615855600350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data2" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$958964.coverage" NAME="958964 Coverage Results" MODIFIED="1609144490244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_3479" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$PCA.coverage" NAME="PCA测试 Coverage Results" MODIFIED="1617084628109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$cross.coverage" NAME="cross Coverage Results" MODIFIED="1610280404936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$model_run_948.coverage" NAME="model_run_948 Coverage Results" MODIFIED="1610021436355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$cross_validation_perfect__3_.coverage" NAME="cross_validation_perfect (3) Coverage Results" MODIFIED="1616722233522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data3" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$mode_run.coverage" NAME="mode_run Coverage Results" MODIFIED="1609135757726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$mode_run_test.coverage" NAME="mode_run_test Coverage Results" MODIFIED="1609316428968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4158" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_5_CV2_run.coverage" NAME="data_5_CV2_run Coverage Results" MODIFIED="1612026379537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_4158_CV2_run.coverage" NAME="data_4158_CV2_run Coverage Results" MODIFIED="1616667036792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data3" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_3265_CV3_run.coverage" NAME="data_3265_CV3_run Coverage Results" MODIFIED="1616919582661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data2" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$Finding_new_LPI__1_.coverage" NAME="Finding new LPI (1) Coverage Results" MODIFIED="1612168735736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$PCA_Normalization.coverage" NAME="PCA_Normalization Coverage Results" MODIFIED="1609077345578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$uci_yeast__1_.coverage" NAME="uci_yeast (1) Coverage Results" MODIFIED="1608876688975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exp" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$t_sen.coverage" NAME="t-sen Coverage Results" MODIFIED="1608901767674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$generate_data.coverage" NAME="generate data Coverage Results" MODIFIED="1610005507089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_4_CV2_run.coverage" NAME="data_4_CV2_run Coverage Results" MODIFIED="1616811813518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$generate_matrix__1_.coverage" NAME="generate_matrix (1) Coverage Results" MODIFIED="1610019627750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$.coverage" NAME="五折验证 Coverage Results" MODIFIED="1615458072971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data1" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_4_CV1_run_test.coverage" NAME="data_4_CV1_run-test Coverage Results" MODIFIED="1610440202055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_4_CV2_run__1_.coverage" NAME="data_4_CV2_run (1) Coverage Results" MODIFIED="1610097272742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$find_name.coverage" NAME="find_name Coverage Results" MODIFIED="1616130289194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$data_3265_CV3_run__1_.coverage" NAME="data_3265_CV3_run (1) Coverage Results" MODIFIED="1610262459944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_3265" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$rna_pr_gbdt.coverage" NAME="rna_pr_gbdt Coverage Results" MODIFIED="1616919547587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/mgbdt" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$top_N__4_.coverage" NAME="top N (4) Coverage Results" MODIFIED="1612438458586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_5" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$cross_validation_perfect.coverage" NAME="cross_validation_perfect Coverage Results" MODIFIED="1617079734440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data4" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$LPIDF.coverage" NAME="LPIDF Coverage Results" MODIFIED="1612276241741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$model_run_3425_end.coverage" NAME="model_run_3425_end Coverage Results" MODIFIED="1609984933070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datasets/data_set_3425" />
+    <SUITE FILE_PATH="coverage/mGBDT_master$top_N__1_.coverage" NAME="top_N (1) Coverage Results" MODIFIED="1612440391798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_set_4" />
+  </component>
+</project>
