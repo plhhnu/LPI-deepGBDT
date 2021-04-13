@@ -8,7 +8,7 @@ Protein feature: [Biotriangle](http://biotriangle.scbdd.com/protein/index/)
 
 # System Requirements
 
-The LPI-deepGBDT is supported on python 3.
+The LPI-deepGBDT is supported on python 3.6
 
 torch version=1.4.0 
 
